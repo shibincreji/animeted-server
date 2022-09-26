@@ -1,11 +1,9 @@
-# Animeter Web App
+# Animeted Web App
 
 This repository contains the source code for the Animeter Web Application.
 
-[Frontend](https://animeter.vercel.app/) - [Backend](https://animeter.herokuapp.com/)
-
-# About Animeter
-Animeter is a Web Application which has features like Signup, login, searching animes based on title or genres, Seeing information about an Anime, Seeing Reviews of other people and givig our own Review for an Anime.
+# About Animeted
+Animeted is a Web Application which has features like Signup, login, searching animes based on title or genres, Seeing information about an Anime, Seeing Reviews of other people and givig our own Review for an Anime.
 
 ## Technologies Used
 #### Frontend
@@ -30,26 +28,3 @@ Animeter is a Web Application which has features like Signup, login, searching a
 - [Frontend - Vercel](https://vercel.com/)
 - [Backend - Heroku](https://heroku.com/)
 - [Database - MongoDB Atlas](https://docs.atlas.mongodb.com/)
-
-## Video Recording
-https://www.youtube.com/watch?v=doEiMNBT0Vk
-
-## Setup
-Clone the Repository
-```
-git clone https://github.com/Yuvrajhere/animeter.git
-```
-
-Start Backend Development Server
-```
-cd animeter
-npm install
-npm start
-```
-
-Start Frontend Development Server
-```
-cd animeter/client
-npm install
-npm start
-```
